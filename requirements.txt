@@ -1,0 +1,4 @@
+docling
+watchdog
+pillow
+pdf2image

@@ -1,1 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# ML / data
+data/
+datasets/
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Terraform / DevOps
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Docker
+*.tar
